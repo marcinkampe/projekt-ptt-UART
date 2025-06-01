@@ -1,0 +1,11 @@
+.measure tran y0 FIND V(y11) AT=0.001144000000000s
+.measure tran y1 FIND V(y10) AT=0.001144000000000s
+.measure tran y2 FIND V(y9) AT=0.001144000000000s
+.measure tran y3 FIND V(y8) AT=0.001144000000000s
+.measure tran y4 FIND V(y7) AT=0.001144000000000s
+.measure tran y5 FIND V(y6) AT=0.001144000000000s
+.measure tran y6 FIND V(y5) AT=0.001144000000000s
+.measure tran y7 FIND V(y4) AT=0.001144000000000s
+.measure tran y8 FIND V(y3) AT=0.001144000000000s
+.measure tran y9 FIND V(y2) AT=0.001144000000000s
+.measure tran y10 FIND V(y1) AT=0.001144000000000s
